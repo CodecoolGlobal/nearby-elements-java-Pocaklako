@@ -35,5 +35,6 @@ public class Main {
 
         int[] results = nearby(x, y, range);
         System.out.println(Arrays.toString(results));
+        System.out.println("kacsa");
     }
 }
